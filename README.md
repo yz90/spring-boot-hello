@@ -1,1 +1,3 @@
-# spring-boot-hello app
+# spring-boot-hello
+
+./mvnw package
