@@ -7,4 +7,4 @@ CD into the project
 ./mvnw spring-boot:run
 
 </br>
-The project already contains maven wrapper so you do not need to install maven. You just need to have java JDK on your machine.
+The project already contains maven wrapper so you do not need to install maven. You just need to have java JDK 8 on your machine.
