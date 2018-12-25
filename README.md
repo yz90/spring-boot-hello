@@ -1,6 +1,6 @@
 # spring-boot-hello
 
-Step 1 Install Java SDK if not already installed. The project already contains maven wrapper so you do not need to install maven. You just need to have java JDK 8 on your machine.
+Step 1 Install Java JDK if not already installed. The project already contains maven wrapper so you do not need to install maven. You just need to have java JDK 8 on your machine.
 
 Step 2 CD into the project
 </br>
