@@ -7,7 +7,7 @@ Step 2 CD into the project
 Step 3
 ./mvnw package
 </br>
-Step 3
+Step 4
 ./mvnw spring-boot:run
 
 </br>
