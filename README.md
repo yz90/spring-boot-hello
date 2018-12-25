@@ -1,4 +1,5 @@
 # spring-boot-hello
+The project already contains maven wrapper so you do not need to install maven. You just need to have java JDK 8 on your machine.
 
 CD into the project
 </br>
@@ -7,4 +8,5 @@ CD into the project
 ./mvnw spring-boot:run
 
 </br>
-The project already contains maven wrapper so you do not need to install maven. You just need to have java JDK 8 on your machine.
+http://localhost:8080 in your browser
+
